@@ -1,0 +1,97 @@
+
+.banner{
+    color: #f0eded;
+
+    background: linear-gradient(
+        to top,
+        rgba(224, 224, 224, 0),
+        rgba(0, 0, 0, 1)
+      ),
+      url('../resources/Banner\ Image.png');
+width: 1320px;
+height: 600px;
+background-repeat: no-repeat;
+margin-top: 100px;
+margin-left: 400px;
+
+}
+.happy-new-year{
+    font-size: 32px;
+
+}
+.new-year-party-celebration{
+    font-size: 65px;
+    
+}
+.text{
+    padding: 80px;
+    margin-right:600px;
+    text-align: center;
+}
+.middle-text{
+    text-align: center;
+}
+.offer{
+    color: red;
+    font-size: 88px;
+}
+.holiday{
+    color: red;
+    font-size: 24px;
+    margin-top: 48px;
+}
+.category{
+    font-size: 48px;
+}
+.new-year {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 802.9px;
+    height: 500px;
+  }
+  .midnight-party{
+    color: #fff;
+   padding: 126px 552px 298px 126px;
+   
+  }
+  .welcome-to-midnight-party{
+    background: linear-gradient(
+        to top,
+        rgba(224, 224, 224, 0),
+        rgba(0, 0, 0, 1)
+      ),
+      url('../resources/Vectorrr.png');
+    width: 1320px;
+    height: 600px;
+    background-repeat: no-repeat;
+    margin-top: 100px;
+    margin-left: 400px;
+  }
+  .another-image{
+    margin-left: 800px;
+  }
+  .color-red{
+    color: red;
+  }
+  .middle-part{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 32px;
+    font-family: Inter;
+  }
+  .join-now{
+    background-color: red;
+    font-size: 30px;
+  }
+.best-offer{
+    display: flex;
+    justify-content: space-between;
+    
+}
+/* background: linear-gradient(
+    to top,
+    rgba(224, 224, 224, 0),
+    rgba(0, 0, 0, 1)
+  ),
+  url('resources/Banner\ Image.png'); */
