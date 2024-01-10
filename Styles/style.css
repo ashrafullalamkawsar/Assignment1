@@ -84,14 +84,10 @@ margin-left: 400px;
     background-color: red;
     font-size: 30px;
   }
-.best-offer{
+  best-offer{
     display: flex;
     justify-content: space-between;
-    
 }
-/* background: linear-gradient(
-    to top,
-    rgba(224, 224, 224, 0),
-    rgba(0, 0, 0, 1)
-  ),
-  url('resources/Banner\ Image.png'); */
+.best-offer li{
+  list-style: none;
+}
